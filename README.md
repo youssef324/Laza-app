@@ -76,5 +76,3 @@ Laza is a modern, fully-functional e-commerce mobile application built with Flut
 *   `http`: Network requests for product data.
 *   `cupertino_icons`: Standard iOS-style icons.
 
----
-Developed with ❤️ by the Laza Team.
