@@ -55,7 +55,7 @@ Laza is a modern, fully-functional e-commerce mobile application built with Flut
 ### Setup
 1.  **Clone the repository**:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/youssef324/Laza-app.git
     cd mobile_project
     ```
 2.  **Install dependencies**:
